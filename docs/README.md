@@ -19,4 +19,7 @@ features:
 MIT Licensed | Copyright © present [Thomas](https://github.com/hedywqy)
 :::
 
-# Hello VuePress
+# Hello World
+
+<img src="https://ghchart.rshah.org/hedywqy" style="width:100%" alt="hedywqy's Github chart" />
+
